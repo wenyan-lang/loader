@@ -1,0 +1,38 @@
+{
+  "name": "@wenyanlang/loader",
+  "version": "0.0.1",
+  "description": "Webpack loader for wenyan-lang",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antfu/wenyan-loader.git"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "wenyan",
+    "wenyan-lang",
+    "webpack",
+    "loader"
+  ],
+  "author": "Anthony Fu <anthonyfu117@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antfu/wenyan-loader/issues"
+  },
+  "homepage": "https://github.com/antfu/wenyan-loader#readme",
+  "peerDependencies": {
+    "webpack": "^4.0.0",
+    "@wenyanlang/core": "^0.3.0"
+  },
+  "devDependencies": {
+    "@wenyanlang/core": "^0.3.0",
+    "loader-utils": "^1.2.3",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}
