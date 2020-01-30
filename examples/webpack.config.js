@@ -1,9 +1,9 @@
 const path = require('path')
 
 module.exports = {
-  entry: './src/圖靈機.wy',
+  entry: './src/序.wy',
   output: {
-    filename: '圖靈機.js',
+    filename: 'index.js',
   },
   mode: "development",
   optimization: {
