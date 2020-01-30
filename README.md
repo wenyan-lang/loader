@@ -5,7 +5,7 @@ Webpack loader for wenyan-lang
 ## Install
 
 ```bash
-npm i -D @wenyanlang/{loader,core}
+npm i -D @wenyanlang/loader @wenyanlang/core
 ```
 
 ## Webpack Config
