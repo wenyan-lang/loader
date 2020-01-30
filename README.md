@@ -61,5 +61,4 @@ You can also check out the [examples](./examples).
 ## TODO
 
 - [ ] A code name
-- [ ] 藏书楼, current entry
 - [ ] Unit tests
