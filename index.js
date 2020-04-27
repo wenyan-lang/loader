@@ -1,6 +1,6 @@
 const { getOptions } = require('loader-utils')
 const path = require('path')
-const Wenyan = require('@wenyanlang/core')
+const Wenyan = require('@wenyan/core')
 const findUp = require('find-up')
 
 const defaultConfig = {

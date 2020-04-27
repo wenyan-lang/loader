@@ -5,7 +5,7 @@ Webpack loader for wenyan-lang
 ## Install
 
 ```bash
-npm i -D @wenyanlang/loader @wenyanlang/core
+npm i -D @wenyan/loader @wenyan/core
 ```
 
 ## Webpack Config
@@ -20,7 +20,7 @@ module.exports = {
         test: /\.wy$/,
         use: [
           {
-            loader: '@wenyanlang/loader',
+            loader: '@wenyan/loader',
             options: {
               // options of wenyan.compile
               strict: true,
